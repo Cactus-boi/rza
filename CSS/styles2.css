@@ -1,0 +1,39 @@
+body{
+    background-color: whitesmoke;
+}
+
+.logo{
+    width: 23px;
+    float: left;
+    margin: 12px 15px 15px;
+}
+
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+}
+
+.nav-heading{
+    float: left;
+    font-weight: bolder;
+    margin: 12px 15px 15px;
+}
+
+.nav-links{
+    text-decoration: none;
+    font-family: "Trebuchet MS", "Lucida Sans", sans-serif;
+    font-size: 18px;
+    margin: 15px;
+    color: black;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav-list{
+    display: flex;
+    justify-content: left;
+    padding-left: 10px;
+    width: fit-content;
+    float: left;
+}
