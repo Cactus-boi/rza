@@ -87,7 +87,7 @@ a.active,a:hover{
 .hero-section-div {
     width: 100%;
     background-color: #D9D9D9;
-    height: 400px;
+    height: 637px;
 }
 
 .Reserve-button{
@@ -112,10 +112,10 @@ h3{
 }
 
 .bed-image{
-    width: 619px;
+    width: 519px;
     border-radius: 8px;
     background-color: #D9D9D9;
-    height: 598px;
+    height: 300px;
     margin-bottom: 30px;
 }
 
