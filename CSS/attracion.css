@@ -1,0 +1,103 @@
+body{
+    background-color: whitesmoke;
+    height: 2320px;
+}
+
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+    padding : 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box
+}
+
+nav{
+    background: #ffffff;
+    height: 80px;
+    width: 100%;
+}
+
+label.logo{
+    color : black;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 60px;
+    font-weight: bold;
+}
+
+nav ul{
+    float: right;
+    margin-right: 350px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 12px;
+}
+
+nav ul li a{
+    color: black;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: none;
+}
+
+a.active,a:hover{
+    background: #e7e9ea;
+    transition: .5s;
+}
+
+.centered-h1{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.list-1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.list-1-image{
+    width: 550px;
+    height: 300px;
+    margin-right: 60px;
+    background-color: #D9D9D9;
+}
+
+.list-para{
+    font-size: 15px;
+    white-space: wrap;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.hero-section-div {
+    width: 100%;
+    background-color: #D9D9D9;
+    height: 637px;
+}
+
+.visit-us{
+    background-color: #D0F792;
+    border-radius: 5px;
+    font-size: 25px;
+    width: 120px;
+    height: 45px;
+    font-weight: bolder;
+    border: 0;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+
+.facilities-text{
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 200px;
+    padding-left: 100px;
+}
