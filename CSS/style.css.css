@@ -9,6 +9,7 @@ body{
     background-color: #ffffff;
     font-family: trebuchet ms;
     height: 5590px;
+    height: fit-content;
 }
 
 nav{
