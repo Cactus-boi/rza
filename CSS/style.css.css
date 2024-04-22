@@ -101,6 +101,14 @@ a.active,a:hover{
     font-weight: bolder;
     border: 0;
 }
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+}
 
 .bed-image{
     width: 619px;
@@ -114,6 +122,7 @@ a.active,a:hover{
     font-weight: bolder;
     font-size: 30px;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .bed {
@@ -148,13 +157,59 @@ a.active,a:hover{
     margin-bottom: 10px;
 }
 
-.bed2 {
+.bed{
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 50px;
 }
 
 .learn-more-button{
+    background-color: #D0F792;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 200px;
+    font-size: 20px;
+    width: 230px;
+    height: 60px;
+    padding: 5px;
+    font-weight: bolder;
+    border: 0;
+}
+
+
+.animals{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.centered-button{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.animal-image{
+    width: 319px;
+    border-radius: 8px;
+    background-color: #D9D9D9;
+    height: 298px;
+    margin-bottom: 30px;
+}
+
+.animal-text{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.animal{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.view-more-button{
     background-color: #D0F792;
     border-radius: 5px;
     margin-top: 20px;
